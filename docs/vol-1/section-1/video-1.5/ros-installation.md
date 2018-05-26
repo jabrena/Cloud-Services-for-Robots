@@ -1,7 +1,5 @@
 # ROS Installation
 
-## Getting Started
-
 - http://wiki.ros.org/ROS/Installation
 
 ## Installing ROS Kinetic

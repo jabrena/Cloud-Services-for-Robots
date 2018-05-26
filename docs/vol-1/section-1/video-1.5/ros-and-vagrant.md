@@ -1,7 +1,5 @@
 # ROS and Vagrant
 
-## Introduction
-
 Vagrant is a tool for building and managing virtual machine environments.
 
 Vagrant provides easy to configure, reproducible, and portable work environments
