@@ -2,4 +2,4 @@
 
 Cloud Services for Robots [video], published by Packt
 
-- [Learn Robotics Engineering with ROS](http://jabrena.github.io/Cloud-Services-for-Robots/)
+- [Learn Robotics Engineering with ROS](http://jabrena.github.io/Cloud-Services-for-Robots/vol-1/)
