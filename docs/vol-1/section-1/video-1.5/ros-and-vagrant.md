@@ -8,11 +8,11 @@ Vagrant provides easy to configure, reproducible, and portable work environments
 built on top of industry-standard technology and controlled by a single consistent
 workflow to help maximize the productivity and flexibility of you and your team.
 
-https://www.vagrantup.com/
+- https://www.vagrantup.com/
 
 ## Installation
 
-https://www.vagrantup.com/downloads.html
+- https://www.vagrantup.com/downloads.html
 
 ## Using ROS Kinetic from Vagrant
 
@@ -24,4 +24,5 @@ vagrant ssh
 ```
 
 Further information to use a Vagrant file:
-https://www.vagrantup.com/docs/cli/
+
+- https://www.vagrantup.com/docs/cli/
